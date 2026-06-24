@@ -1,5 +1,6 @@
 '''
 Um Bloco de Comentarios,
+
 Projeto:Salão de beleza
 
 >PO (Como dono: Quero um sistema de vendas para o meu salão de beleza, para que eu possa 
@@ -67,4 +68,3 @@ if p4_nome = input(Corte de cabelo: Undercut')
    p4_preco = 150,00
    p4_descricao = Corte com laterais raspadas e parte superior mais longa, 
    ideal para cabelos grossos e finos.
-
