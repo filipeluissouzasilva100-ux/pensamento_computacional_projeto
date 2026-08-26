@@ -3,20 +3,21 @@ Um Bloco de Comentarios,
 
 Projeto:Salão de beleza
 
->PO (Como dono: Quero um sistema de vendas para o meu salão de beleza, para que eu possa 
-controlar as vendas.)
+>Product Owner(Como dono: Quero um sistema de vendas para o meu salão de beleza,
+para que eu possa controlar as vendas.)
 
->QA (Como cliente: Quero um sistema de vendas para o meu salão de beleza, para que eu
- possa mudar o cabelo e aparência de forma rápida e fácil.)
+>Quality Assurance (QA) (Como cliente: Quero um sistema de vendas para o meu salão
+de beleza, para que eu possa mudar o cabelo e aparência de forma rápida e fácil.)
 
->Tech (Como programador: Quero um sistema de vendas para o meu salão de beleza para que
- eu possa desenvolver um software eficiente e funcional para o salão.)
+>Tech Lead / Arquiteto (Como programador: Quero um sistema de vendas para o meu salão de
+beleza para que eu possa desenvolver um software eficiente e funcional para o salão.)
  
->Dev (Como programador: Quero um sistema de vendas para meu salão de beleza, para que eu
-possa implementar as funcionalidades necessárias para que eu possa atender ao gosto de
-todos os clientes.)
+>Developer Dev (Como programador: Quero um sistema de vendas para meu salão de beleza,
+para que eu possa implementar as funcionalidades necessárias para que eu possa
+atender ao gosto de todos os clientes.)
 
->UX (Como designer de experiência do usuário: Quero um sistema de vendas para meu salão
+>UX/UI Designer(Como designer de experiência do usuário: Quero um sistema de vendas para
+meu salão
 de beleza, para que eu possa criar uma interface intuitiva e agradável para todos que
 quiserem mudar de cabelo.)
 
@@ -35,7 +36,10 @@ print('2 - Mostrar preços')
 print('3 - Listar horários disponiveis')
 print('4 - Agendar um dia')
 print('5 - Ver o valor a ser pago')
-print('0 - Sair do sistema')
+print('6 - Sistema de Fidelidade (Pontuação)')
+print('7 - Controle de Estoque de Produtos')
+print('8 - Cadastro e Comissão de Profissionais (Colaboradores)')
+print('9 - Relatório de Faturamento e Serviços Mais Procurados')
 
 opcao = input('Digite a opção desejada: ')
 
